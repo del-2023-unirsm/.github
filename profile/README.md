@@ -1,10 +1,9 @@
 # Digital Experience Lab — 2023 @ UNIRSM.design
 
-Modules:
 - Digital Experience by [@fupete](https://github.com/dambrosiodesigner)
 - UX/UI by [@dambrosiodesigner](https://github.com/@dambrosiodesigner)
 
-[Course page on design.unirsm 🔗](https://design.unirsm.sm/courses/laboratorio-di-design-dei-sistemi/)
+[On design.unirsm 🔗](https://design.unirsm.sm/courses/laboratorio-di-design-dei-sistemi/)
 
 ------
 
