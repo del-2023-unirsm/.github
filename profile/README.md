@@ -9,10 +9,4 @@
 Corso di Laurea magistrale in Interaction & Experience Design @ [design.unirsm.sm](http://design.unirsm.sm)  
 Università della Repubblica di San Marino
 
-## Docenti 
-- **Modulo Digital Experience** (65 ore/6 crediti): _Daniele Tabellini_ ([@fupete](http://github.com/fupete))
-- **Modulo UX/UI** (32 ore/2 crediti): _Giuseppe D'Ambrosio_ ([@dambrosiodesigner](http://github.com/dambrosiodesigner))
-
----
-
-🧑‍💻 _Work in progress_
+[**Vai al syllabus**](https://github.com/del-2023-unirsm/syllabus-23) 📣
